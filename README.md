@@ -5,6 +5,10 @@ The program will generate an HTML page that contains six movie posters of Safioo
 
 This project is part of the Udacity Full Stack Web Developer Nanodegree.
 
+**Here's a Screenshot of How the HTML Page should look in the browswer:**
+<img width="993" alt="screenshot of the html webpage" src="https://cloud.githubusercontent.com/assets/12434933/26696815/a4688caa-4718-11e7-9faa-5926028bd242.png">
+
+
 ## Files Contained
 The program consists of three python code files (.py). Named:
 1. media.py
