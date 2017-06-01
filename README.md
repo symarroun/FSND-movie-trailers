@@ -18,11 +18,12 @@ You will need to have an installed browser in your computer in order to run the 
 
 To the run program, **ensure** all the three .py files are in one folder, then run the file named “fav_movies.py”. Once you run it, a browser will automatically open with the HTML generated page.
 
-## Once you run the program, three files will be automatically generated in the same folder named:
+Once you run the program, three files will be automatically generated in the same folder named:
 1. fav_movies_web.html
 2. fav_movies_web.pyc
 3. media.pyc
 
+**Note:** You may run the fav_movies.py file using a code editor such Sublime Text 2 or even via the Terminal.
 
 ## License
 Safioo’s favorite movie trailer’s is released under the [MIT License](https://choosealicense.com/licenses/mit/#).
